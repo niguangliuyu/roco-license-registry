@@ -1,6 +1,7 @@
 {
   "allowed_license_ids": [
-    "95c6289b47324350b9eeb1caea16d198"
+    "95c6289b47324350b9eeb1caea16d198",
+    "684f28fb29cb46dcbbe3832dc66d7cd0"
   ],
   "revoked_license_ids": []
 }
