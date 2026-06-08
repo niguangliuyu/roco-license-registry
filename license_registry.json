@@ -1,4 +1,6 @@
 {
-  "allowed_license_ids": [],
+  "allowed_license_ids": [
+    "95c6289b47324350b9eeb1caea16d198"
+  ],
   "revoked_license_ids": []
 }
